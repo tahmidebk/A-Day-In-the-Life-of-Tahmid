@@ -1,0 +1,154 @@
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    display: flex;
+    justify-content: flex-end;
+    width: 40px;
+    width: 40%;
+}
+
+body {
+    background-color: lightblue;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+}
+
+.twoimg {
+    width: 40px;
+    width: 40%;
+    display: none;
+}
+
+.twobt {
+    display: none;
+}
+
+.threebt {
+    display: none;
+}
+
+.threeimg {
+    display: none;
+}
+
+.onetext {
+    display: none;
+}
+
+.fourimg {
+    display: none;
+}
+
+.fourbt {
+    display: none;
+}
+
+.fivebt {
+    display: none;
+}
+
+.fiveimg {
+    display: none;
+}
+
+.twotext {
+    display: none;
+}
+
+.siximg {
+    display: none;
+}
+
+.sixbt {
+    display: none;
+}
+
+.sevenbt {
+    display: none;
+}
+
+.sevenimg {
+    display: none;
+}
+
+.threetext {
+    display: none;
+}
+
+.eightimg {
+    display: none;
+}
+
+.fourtext {
+    display: none;
+}
+
+.eightbt {
+    display: none;
+}
+
+.ninebt {
+    display: none;
+}
+
+.tenbt {
+    display: none;
+}
+
+.tenimg {
+    display: none;
+}
+
+.sixtext {
+    display: none;
+}
+
+.elevenbt {
+    display: none;
+}
+
+.nineimg {
+    display: none;
+}
+
+.fivetext {
+    display: none;
+}
+
+.twelvebt {
+    display: none;
+}
+
+.thirteenbt {
+    display: none;
+}
+
+.elevenimg {
+    display: none;
+}
+
+.twelveimg {
+    display: none;
+}
+
+.thirteenimg {
+    display: none;
+}
+
+.fourteenimg {
+    display: none;
+}
+
+.seventext {
+    display: none;
+}
+
+.eighttext{
+    display: none;
+}
